@@ -8,7 +8,7 @@ describe PagesController do
     #
     # Define @base_title here.
     #
-    @base_title = "Ruby on Rails Tutorial Sample App"
+    @base_title = "Ruby on Rails Tutorial Sample App written by thasheer"
   end
   describe "GET 'home'" do
     it "should be successful" do
